@@ -9,7 +9,9 @@ body{
 h1 {
     text-align: center;
     color: #1e272e;
-     font-size: 36px;
+    font-size: 55px;
+  font-family: 'Rubik Iso', cursive;
+  margin-bottom: 15px;
   }
   
   #game-board {
