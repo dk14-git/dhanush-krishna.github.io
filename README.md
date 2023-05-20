@@ -1,4 +1,4 @@
-Welcome to my Portfolio Website!
+# Welcome to my Portfolio Website!
 
 # Introduction
 This repository showcases the portfolio website I have developed as part of my Semester 6 assignment submission for the Full Stack Development (FSD) course. The website is designed to display my skills, projects, and experiences in the field of computer science.
