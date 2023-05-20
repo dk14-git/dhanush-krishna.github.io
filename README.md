@@ -16,7 +16,6 @@ This repository showcases the portfolio website I have developed as part of my S
 
 # Technologies Used 
 HTML, CSS, JavaScript
-Version Control: Git
 
 # Deployment
 The portfolio website is currently deployed and accessible at [https://dk14-git.github.io/portfolio/]. It is hosted on a reliable web hosting service and ensures a smooth browsing experience for visitors.
